@@ -1,0 +1,45 @@
+jsDelivr 链接（填进 obr.dnd.center 音乐板「+ 外链」）
+=========================================================
+
+使用方法：
+  1. 记事本打开本文件
+  2. Ctrl+H，把 <USER> 全部替换成你的 GitHub 用户名
+  3. Ctrl+H，把 <REPO> 全部替换成你的仓库名
+  4. 全选复制，粘贴进音乐板「+ 外链」输入框，点添加
+
+文件名全是纯 ASCII（字母 + 下划线），链接里没有任何 %XX 编码，
+复制粘贴不会出岔子。
+
+---------------------------------------------------------
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/8AM_Tune.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Tense.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Oppressive_Tension.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Area_X_Tension.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Fishfolk_Chant.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Hyped_Battle_Electro.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Battle_But_Funk.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Socket_Calibration.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Corpse_Nest_I.mp3
+https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/Siren_Alarm.mp3
+
+---------------------------------------------------------
+中英对照
+---------------------------------------------------------
+1  8AM_Tune.mp3               早八的小曲            Whirling-In-Rags, 8 AM
+2  Tense.mp3                  紧张                  Tiger King
+3  Oppressive_Tension.mp3     压抑紧张              Your Body Betrays Your Degeneracy
+4  Area_X_Tension.mp3         X区域紧张             End Titles (Alt Version)
+5  Fishfolk_Chant.mp3         鱼人低吟              奉神御詠歌
+6  Hyped_Battle_Electro.mp3   热血沸腾激昂战斗电音   FCKD
+7  Battle_But_Funk.mp3        战斗但是放克          HERE I COME
+8  Socket_Calibration.mp3     插座校准              Socket Calibration
+9  Corpse_Nest_I.mp3          屍人ノ巣Ⅰ             屍人ノ巣Ⅰ（无备注，意译）
+10 Siren_Alarm.mp3            塞壬警报              The Siren
+
+---------------------------------------------------------
+注意事项
+---------------------------------------------------------
+- 仓库必须是 Public，私有仓库 jsDelivr 读不到
+- 首次访问每首会慢几秒（CDN 回源预热），之后直出
+- 上传完先随便打开一条链接，能播放/下载就说明通了
+- 想改某个名字的话，改完文件名后把链接里对应那段一起改掉即可
